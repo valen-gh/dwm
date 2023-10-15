@@ -5,7 +5,6 @@
 
 - alwayscenter/ (Center floating windows) https://dwm.suckless.org/patches/alwayscenter/
 - attachbottom/ (Attach clients to the bottom of the stack) https://dwm.suckless.org/patches/attachbottom/
-- bottomstack/ (Add bstack layout) https://dwm.suckless.org/patches/bottomstack/
 - fakefullscreen/ (Use space of client instead of full screen) https://dwm.suckless.org/patches/fakefullscreen/
 - focusonclick/ (Focus client on click and not sloppy) https://dwm.suckless.org/patches/focusonclick/
 - fullscreen/ https://dwm.suckless.org/patches/fullscreen/
