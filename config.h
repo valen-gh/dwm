@@ -32,7 +32,7 @@ static const Rule rules[] = {
 	 *	WM_NAME(STRING) = title
 	 */
 	/* class      instance    title		   tags mask    isfloating   monitor */
-	{ "Sxiv",     NULL,	  NULL,	      	   0,		1,	     -1 },
+	{ "Nsxiv",     NULL,	  NULL,	      	   0,		1,	     -1 },
 	{ "Steam",    NULL,	  "Friends List",  0,		1,	     -1 },
 };
 
